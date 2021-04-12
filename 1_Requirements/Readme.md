@@ -18,16 +18,7 @@ intelligence (Blagg, 1991).
 ## Cost and Features
 Versions of Minesweeper are frequently bundled with operating systems and GUIs, including Minesweeper for IBM's OS/2, Minesweeper in Windows, KMines in KDE (Unix-like OSes), GNOME Mines in GNOME and MineHunt in Palm OS. Many clones can be found on the Internet.
 Variants of the basic game generally have differently shaped minefields, in either two or three dimensions, and may have more than one mine per cell. For example, X11-based XBomb adds triangular and hexagonal grids, and Professional Minesweeper for Windows includes these and others. There are also variants for more than one player, in which the players compete against each other.
-The HP-48G graphing calculator includes a variation on the theme called "Minehunt", where the player has to move safely from one corner of the playfield to the other. The only clues given are how many mines are in the squares surrounding the player's current position.
-The Voltorb Flip game in the non-Japanese releases of Pokémon HeartGold and SoulSilver is a variation of Minesweeper and Picross.
-A tentaizu puzzle with three stars (mines) already located and four remaining to be found.
 A logic puzzle variant of minesweeper, suitable for playing on paper, starts with some squares already revealed. The player cannot reveal any more squares, but must instead mark the remaining mines correctly. Unlike the usual form of minesweeper, these puzzles usually have a unique solution. These puzzles appeared under the name "tentaizu" , Japanese for a star map, in Southwest Airlines' magazine Spirit in 2008–2009.
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D```
 
 ## Defining Our System
     -- TBD
