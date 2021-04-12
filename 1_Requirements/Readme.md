@@ -1,12 +1,20 @@
 # Requirements
 ## Introduction
-Minesweeper is a single-player puzzle video game. The objective of the game is to clear a rectangular board containing hidden "mines" or bombs without detonating any of them, with help from clues about the number of neighboring mines in each field. The game originates from the 1960s, and it has been written for many computing platforms in use today. It has many variations and offshoots.
-
+I was introduced to the game Minesweeper by a math teacher when I was in high school as software that is included with Microsoft Windows. The game involves a square grid of cells, where the player attempts to click on every square except those that contain amine (bomb). If a beveled square is clicked, and does not contain a mine, it will show a number (or be blank if the number is 0). This number is the exact number of mines adjacent to that particular square. Using these numbers, the player must use deductive
+logic (and in some cases probabilistic thinking) to hypothesize about where the mines exist by flagging them. Then by using this knowledge, the player continues until they accidently click a mine or they win the game.
 Some versions of Minesweeper will set up the board by never placing a mine on the first square revealed.Minesweeper for versions of Windows protects the first square revealed; from Windows Vista onward, players may elect to replay a board, in which the game is played by revealing squares of the grid by clicking or otherwise indicating each square. If a square containing a mine is revealed, the player loses the game. If no mine is revealed, a digit is instead displayed in the square, indicating how many adjacent squares contain mines; if no mines are adjacent, the square becomes blank, and all adjacent squares will be recursively revealed. The player uses this information to deduce the contents of other squares and may either safely reveal each square or mark the square as containing a mine.
 
 ## Research
-![Description](Link to Pic)
--- Content 
+The game Minesweeper, and its variants, in contrast to many of the other games
+studied for cognitive effects, is recognized to utilize direct logical thinking (Mackenzie,
+1999). In 1995, Allan Struthers started to use the game Mine Hunter, a Minesweeper
+variant, as an educational scaffolding technique to introduce proofs to students (Struthers,
+1995). His success was later replicated by Patti Frazer Lock in 1999, to use the same
+techniques in her classes to help teach mathematical proofs (Lock, 1999). Further,
+Minesweeper may be a “content-free” method of teaching logical thinking, based upon the
+idea that the content of the educational tool is thought itself. This might be similar to
+Feuerstein’s Instrumental Enrichments which have shown some possibility of increasing
+intelligence (Blagg, 1991).
 ## Cost and Features
 ![Description](Link to Pic)
 -- Content 
