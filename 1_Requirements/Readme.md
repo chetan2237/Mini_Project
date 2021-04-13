@@ -19,6 +19,17 @@ intelligence (Blagg, 1991).
 Versions of Minesweeper are frequently bundled with operating systems and GUIs, including Minesweeper for IBM's OS/2, Minesweeper in Windows, KMines in KDE (Unix-like OSes), GNOME Mines in GNOME and MineHunt in Palm OS. Many clones can be found on the Internet.
 Variants of the basic game generally have differently shaped minefields, in either two or three dimensions, and may have more than one mine per cell. For example, X11-based XBomb adds triangular and hexagonal grids, and Professional Minesweeper for Windows includes these and others. There are also variants for more than one player, in which the players compete against each other.
 A logic puzzle variant of minesweeper, suitable for playing on paper, starts with some squares already revealed. The player cannot reveal any more squares, but must instead mark the remaining mines correctly. Unlike the usual form of minesweeper, these puzzles usually have a unique solution. These puzzles appeared under the name "tentaizu" , Japanese for a star map, in Southwest Airlines' magazine Spirit in 2008–2009.
+```mermaid
+sequenceDiagram
+Alice ->> Bob: Hello Bob, how are you?
+Bob-->>John: How about you John?
+Bob--x Alice: I am good thanks!
+Bob-x John: I am good thanks!
+Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+
+Bob-->Alice: Checking with John...
+Alice->John: Yes... John, how are you?
+```
 
 ## Defining Our System
     -- TBD
