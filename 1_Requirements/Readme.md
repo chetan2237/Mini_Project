@@ -20,14 +20,7 @@ Versions of Minesweeper are frequently bundled with operating systems and GUIs, 
 Variants of the basic game generally have differently shaped minefields, in either two or three dimensions, and may have more than one mine per cell. For example, X11-based XBomb adds triangular and hexagonal grids, and Professional Minesweeper for Windows includes these and others. There are also variants for more than one player, in which the players compete against each other.
 A logic puzzle variant of minesweeper, suitable for playing on paper, starts with some squares already revealed. The player cannot reveal any more squares, but must instead mark the remaining mines correctly. Unlike the usual form of minesweeper, these puzzles usually have a unique solution. These puzzles appeared under the name "tentaizu" , Japanese for a star map, in Southwest Airlines' magazine Spirit in 2008–2009.
 ![alt text](http://picsum.photos/200/200)
-```mermaid
-graph TD
-    A[Start] --> B{Is it?};
-    B -->|Yes| C[OK];
-    C --> D[Rethink];
-    D --> B;
-    B ---->|No| E[End];
-```
+
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
