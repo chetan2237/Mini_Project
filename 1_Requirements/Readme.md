@@ -42,7 +42,7 @@ Practice management software offers charting modules to keep patient data, chart
     * Hospital Management Application
     * Analytics System
     * Emergency Services
-![Description](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/1_Requirements/system.png)
+![Description](https://github.com/chetan2237/Mini_Project/blob/master/1_Requirements/DesignFlow.png)
 ### Explanation:
 * Patient Management Application have few inbuilt features like:
     * Create a patient record
