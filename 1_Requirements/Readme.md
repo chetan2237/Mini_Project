@@ -31,10 +31,10 @@ Improves the thinking ability of users.
 ## Cost and Features with Time 
 | Time | Feature | Cost |
 | ----- | ----- | ----- |
-| 1968-1975  |  problem-oriented medical record (POMR) (1).  Clinicians now had access to a patient’s entire medical history and the system allowed third-party facilities to verify diagnoses | $1 Million |
-| 1982 | Dragon Systems developed a voice recognition prototype,  they were used more for billing and scheduling rather than electronic medical records.| $0.25 Million |
-| 1991 | Master Patient Index (MPI) was introduced in the 1980s to keep track of patients and their medical data. This paved the way for the Indiana Network for Patient Care (INPC)| Cost-effective |
-| 2009 |  Health Information Technology for Economic and Clinical Health (HITECH)| $0.5 Million |
+| 2000  |  The game had been given the name of Flower Field instead of Minesweeper in some translations of Windows 2000 (like the Italian version), featuring flowers instead of mines. Flower Field's gameplay was otherwise unchanged, as was the executable file name.| Cost-effective |
+| 2003 | Microsoft created a variation called Minesweeper Flags in MSN Messenger, which is played against an opponent with the objective to find the mines rather than the surrounding squares.| Cost-effective |
+| 2007 | The game's color scheme changed with the release of Vista (from gray to either blue or green). The icons were updated to match the Aero look. It also came with a more peaceful "flower" motif (called "Flower Garden") to replace the landmines (a game style called "Minesweeper").| Cost-effective |
+| 2010 |  Microsoft removed Minesweeper from Windows 8 and instead published a free equivalent on Microsoft Store. The new version is developed by Arkadium and is ad-supported.| $0.5 Million |
 
 
 
