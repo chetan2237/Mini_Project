@@ -27,10 +27,6 @@ Intermediate has 40 mines and also varies in size between 13 * 15 and 16 * 16. F
 expert has 99 mines and is always 16 * 30 (or 30 * 16). Typically in beginner, guessing
 is rarely necessary.
 
-
-![Flags](https://github.com/chetan2237/Mini_Project/blob/master/1_Requirements/flags.PNG)
-
-
 ### Benefits
 Improves the thinking ability of users.
 
