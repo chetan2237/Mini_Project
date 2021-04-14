@@ -44,9 +44,7 @@ Improves the thinking ability of users.
 
 
 ## Defining Our System
-### Given below is the flow graph of the system:
-
-![Description](https://github.com/chetan2237/Mini_Project/blob/master/1_Requirements/DesignFlow.png)
+* Mine_field generator generates the field using '-'. Guess function is used to find the mines and 'B' to fillup blank spaces.If player successfully comples the game he wins. If player hit a mine displays you lose. If the person lost the mine_feild prints with the displaed mines,
 ### Explanation:
 * Minesweepers game has few functions like:
     * Mine_field generator.
@@ -87,6 +85,7 @@ Improves the thinking ability of users.
 | HR06 | Player survives the mines he wins | Implemented |
 | HR07 | Player should able to select difficulty | FUTURE |
 | HR08 | Player should able to flag the mines | FUTURE |
+| HR09 | Player should able to see the timer | FUTURE |
 ##  Low level Requirements:
  
 | ID | Description  | Status (Implemented/Future) |

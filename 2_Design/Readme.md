@@ -2,9 +2,9 @@
 
 ## High Level Design 
 
---- TBD Structural and Behavioural Diagram
-![HighLevelStructuralDiagram](Link to Pic)
-![HighLevelBehaviouralDiagram](Link to Pic)
+### Given below is the flow graph of the system:
+
+![Description](https://github.com/chetan2237/Mini_Project/blob/master/1_Requirements/DesignFlow.png)
 
 ## Low Level Design 
 
