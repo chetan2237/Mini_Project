@@ -9,7 +9,7 @@ have more than eight neighbors.
  * The game ends when the player probes a cell containing
 a mine. The objective of the game is to uncover every square that does not contain a
 mine.
-
+![5v5](https://github.com/chetan2237/Mini_Project/blob/master/1_Requirements/fivevf.PNG)
 ## Research
 ### Minesweepers Software System Features and Benefits
 In 2000, Richard Kaye suggested that Minesweeper was a computationally difficult game.
@@ -22,7 +22,7 @@ Beginner has a total of ten mines and the board size is either 8 * 8, 9 * 9, or 
 Intermediate has 40 mines and also varies in size between 13 * 15 and 16 * 16. Finally,
 expert has 99 mines and is always 16 * 30 (or 30 * 16). Typically in beginner, guessing
 is rarely necessary.
-
+![Flags](https://github.com/chetan2237/Mini_Project/blob/master/1_Requirements/flags.PNG)
 ### Benefits
 Improves the thinking ability of users.
 
@@ -82,6 +82,7 @@ Improves the thinking ability of users.
 | HR05 | Player should not hit mine if he does game over | Implemented |
 | HR06 | Player survives the mines he wins | Implemented |
 | HR07 | Player should able to select difficulty | FUTURE |
+| HR08 | Player should able to flag the mines | FUTURE |
 ##  Low level Requirements:
  
 | ID | Description  | Status (Implemented/Future) |
