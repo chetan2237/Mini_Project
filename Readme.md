@@ -19,8 +19,8 @@ Folder             | Description
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`ABC` | 12345678  | Feature A, B etc    | X No     | X No   |X No   |X No     
-`DEF` | 12345678  | Feature C, D etc    | X No     | X No   |X No   |X No     
+`287197` | Pidugu Naga Chetan  | Feature A, B etc    | X No     | X No   |X No   |X No     
+  
 
 ## Challenges Faced and How Was It Overcome
 
@@ -29,7 +29,7 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 3. ...
 4. ...
 
-## Learning Resources
+## Resources used in this project
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
 3. [git inspector](https://github.com/ejwa/gitinspector.git)
