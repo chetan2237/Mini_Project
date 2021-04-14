@@ -86,7 +86,7 @@ Improves the thinking ability of users.
  
 | ID | Description  | Status (Implemented/Future) |
 | ------ | --------- | ----- |
-| LR01 |Mine_field generator generates the field using '|' and '-' | Implemented |
+| LR01 |Mine_field generator generates the field using '-' | Implemented |
 | LR02 | Guess function is used to find the mines and 'B' to fillup blank spaces | Implemented |
 | LR03 | Can be done using some cool GUI | FUTURE |
 | LR04 | If player successfully comples the game he wins | Implemented |
