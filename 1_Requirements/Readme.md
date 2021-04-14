@@ -1,7 +1,7 @@
 # Requirements
 ## Introduction
  * Minesweeper is a single-player puzzle game available on several operating systems and
-GUIs. At the start of a game, the player receives an n  m rectangular grid of covered
+GUIs. At the start of a game, the player receives an n * m rectangular grid of covered
 squares or cells. Each turn, the player may probe or uncover a square revealing either
 a mine or an integer. This integer represents the number of mines adjacent to that
 particular square. As such, the number on a cell ranges from 0 to 8 since a cell cannot
@@ -12,8 +12,8 @@ mine.
 
 ## Research
 ### Minesweepers Software System Features and Benefits
-In 2000, Richard Kaye suggested that Minesweeper was a computationally dicult game.
-In particular, Kaye analyzes a specic problem that players face called Minesweeper
+In 2000, Richard Kaye suggested that Minesweeper was a computationally difficult game.
+In particular, Kaye analyzes a specific problem that players face called Minesweeper
 Consistency or simply Consistency in his paper \Minesweeper is NP-complete".
 Consistency is a decision problem which asks whether a Minesweeper configuration is
 consistent.
