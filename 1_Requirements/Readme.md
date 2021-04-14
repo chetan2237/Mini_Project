@@ -55,7 +55,7 @@ Practice management software offers charting modules to keep patient data, chart
 * Since we have assumed that few systems already exists we can say that in future sprints new features could be added in which for instance patient record from PMS can be sent to HMS or Analytics or even to emegency services if some patient record shows abnormal pattern.
 
 ## SWOT ANALYSIS
-![SWOT Analysis](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/1_Requirements/swot.png)
+![SWOT Analysis](https://github.com/chetan2237/Mini_Project/blob/master/1_Requirements/swot.PNG)
 
 # 4W&#39;s and 1&#39;H
 
