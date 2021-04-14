@@ -40,22 +40,16 @@ Improves the thinking ability of users.
 
 
 ## Defining Our System
-### Certain assumptions:
-* Few systems already exists with which our system will interact
-    * Hospital Management Application
-    * Analytics System
-    * Emergency Services
+### Given below is the flow graph of the system:
+
 ![Description](https://github.com/chetan2237/Mini_Project/blob/master/1_Requirements/DesignFlow.png)
 ### Explanation:
-* Patient Management Application have few inbuilt features like:
-    * Create a patient record
-    * Delete a patient record
-    * Read a patient record
-    * Update a patient record
-    * Save record to file
-    * Read record from file 
-
-* Since we have assumed that few systems already exists we can say that in future sprints new features could be added in which for instance patient record from PMS can be sent to HMS or Analytics or even to emegency services if some patient record shows abnormal pattern.
+* Minesweepers game has few functions like:
+    * Mine_field generator.
+    * Printing field
+    * Guess
+    * boom etc
+         
 
 ## SWOT ANALYSIS
 ![SWOT Analysis](https://github.com/chetan2237/Mini_Project/blob/master/1_Requirements/swot.PNG)
@@ -63,19 +57,19 @@ Improves the thinking ability of users.
 # 4W&#39;s and 1&#39;H
 
 ## Who:
-* Small and medium size clinics Providing Covid vaccinations to patients
+* Persons within all age groups can play this game.
 
 ## What:
-* Many Clinics are not able to afford high end HMS or ERP systems and hence still depend on manual filing systems. During COVID vaccinations it becomes a tedious task to manage every patient with hand written file system
+* This game is developed by Microsoft and provided as a inbuilt game and most sae in Windows xp.
 
 ## When:
-* This problem began in February 2021, when COVID Vaccination Drive began and small/medium clinics will soon have to administer vaccinations to people.
+* This game was begun in 2000 and it was still up and running.
 
 ## Where:
-* This problem is expected to surface in all states of India.
+* Can we played on any operating systems.
 
 ## How:
-* This problem may cause ineffective vaccine management and hence there can be a huge amount of vaccine wastage. As per recent data in cities like Noida and Delhi till date 9%-18% vaccines have gone to waste.
+* This game include high thinking knowledge. 
 
 # Detail requirements
 ## High Level Requirements: 
