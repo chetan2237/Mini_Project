@@ -23,4 +23,4 @@ void minefield_generator( void );
 * @return print_minefield
 */
 void print_minefield( void );
-#endif  /* #define __CALCULATOR_OPERATIONS_H__ */
+#endif  /* #define __MINE_OPS_H__ */
