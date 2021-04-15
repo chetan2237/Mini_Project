@@ -17,16 +17,16 @@ Folder             | Description
 
 PS No. |  Name   |      Features      | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|---------------------|---------------|-------------|--------------
-`287197` | Pidugu Naga Chetan  | IS1 ,IS2 ,IS3    | 3    | 3   |4   |4     
+`287197` | Pidugu Naga Chetan  | I1 ,I2 ,I3    | 3    | 3   |4   |4     
   
 
 ## Challenges Faced and How Was It Overcome
 
 Issue No. |  Challenge faced   |    Resolved    
 ----------|--------------------|------------
-IS1 | While printing the field | Adjusting the loops
-IS2 | Compiling makefile | Refering to example file
-IS3 | Unity testing | Resolved by taking help of peers.
+I1 | While printing the field | Adjusting the loops
+I2 | Compiling makefile | Refering to example file
+I3 | Unity testing | Resolved by taking help of peers.
 
 ## Resources used in this project
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
