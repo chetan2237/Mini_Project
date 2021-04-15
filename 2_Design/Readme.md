@@ -6,8 +6,3 @@
 
 ![Description](https://github.com/chetan2237/Mini_Project/blob/master/1_Requirements/DesignFlow.png)
 
-## Low Level Design 
-
---- TBD Structural and Behavioural Diagram
-![FeaturesLevelStructuralDiagram](Link to Pic)
-![FeaturesBehaviouralDiagram](Link to Pic)
