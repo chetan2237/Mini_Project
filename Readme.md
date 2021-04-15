@@ -15,7 +15,7 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+PS No. |  Name   |      Features      | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|---------------------|---------------|-------------|--------------
 `287197` | Pidugu Naga Chetan  | IS1 ,IS2 ,IS3    | 3    | 3   |4   |4     
   
