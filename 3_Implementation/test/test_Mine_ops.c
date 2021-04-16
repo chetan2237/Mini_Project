@@ -1,5 +1,5 @@
 #include "unity.h"
-#include <calculator_operations.h>
+#include <Mines_ops.h>
 
 /* Modified */
 #include <Mine_ops.h>
@@ -35,7 +35,6 @@ void test_minefield_generator( void ) {
 void test_print_minefield( void ) {
   TEST_ASSERT_EQUAL('B', print_minefield( void ));
   
-  /* Dummy fail*/
-  // TEST_ASSERT_EQUAL(1, subtract(1000, 900));
+  
 }
 
