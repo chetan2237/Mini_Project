@@ -1,5 +1,9 @@
 # SDLC Activity Based Learning
 
+![GitHub commit merge status](https://img.shields.io/github/commit-status/chetan2237/Mini_Project/master/7dc6b4bbb5243e54baffb8a8d14436f256fa8e29)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/chetan2237/Mini_Project?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/chetan2237/Mini_Project?style=plastic)
+
 ##      Design of 9*9 MINESWEEPER GAME
 
 ![TitleImg](https://github.com/chetan2237/Mini_Project/blob/master/1_Requirements/world-of-minesweeper.png)
