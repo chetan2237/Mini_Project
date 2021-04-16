@@ -11,4 +11,4 @@
 ![Description](https://github.com/chetan2237/Mini_Project/blob/master/1_Requirements/DesignFlow.png)
 
 
-![Description](https://github.com/chetan2237/Mini_Project/blob/master/1_Requirements/umldia.jpg/200/200)
+![Description](https://github.com/chetan2237/Mini_Project/blob/master/1_Requirements/umldia.jpg)
